@@ -2,7 +2,13 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-
+/**
+ * This program uses loop to calculate the sum of integers 
+ * from a text file and writes the results to an output file.
+ * @author Yoma Ozoh
+ * @version 1.0
+ * @since 2026-10-09
+ */
 public final class FileIO {
 /**
      * Utility class constructor.
