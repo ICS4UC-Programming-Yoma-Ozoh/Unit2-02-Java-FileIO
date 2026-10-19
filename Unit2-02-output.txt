@@ -1,4 +1,6 @@
-60
-Please enter a valid integer.
-20
-0
+1
+22
+3
+45
+8
+74
